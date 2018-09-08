@@ -1,4 +1,4 @@
-# jsQR
+# jsQR ------------ node 识别二维码库
 
 [![Build Status](https://travis-ci.org/cozmo/jsQR.svg?branch=master)](https://travis-ci.org/cozmo/jsQR)
 
